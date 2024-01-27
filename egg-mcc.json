@@ -3,11 +3,11 @@
         "version": "PTDL_v2"
     },
     "name": "Minecraft Console Client",
-    "author": "Razboy20@razboy.dev",
+    "author": "krystian@5rcher.com",
     "description": "Runs a Console Client implementation of Minecraft in Pterodactyl.",
     "features": null,
     "docker_images": {
-        "pterodactyl-mcc:main": "ghcr.io/razboy20/pterodactyl-mcc:main"
+        "pterodactyl-mcc:main": "ghcr.io/5rcher/pterodactyl-mcc:main"
     },
     "file_denylist": [],
     "startup": "{{STARTUP_CMD}}",
