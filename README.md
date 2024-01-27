@@ -1,6 +1,7 @@
 # Running MCC in Pterodactyl
 
 Runs a Console Client implementation of Minecraft in Pterodactyl.
+Credits to Razboy20 for making the base project, I am just forking it and listing some issues that I've had whilst using their egg!
 
 To fix issue with the client spamming invalid characters in the chat, follow these steps:
 
