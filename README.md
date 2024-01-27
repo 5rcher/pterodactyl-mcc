@@ -19,6 +19,6 @@ docker start -ai <container_id>
 This will change the container from running in headless mode to running in interactive mode, you will be displayed with a console of the container, if it isn't showing anything just click enter a few times to refresh and you can use the console like you would with Minecraft Console Client, just inside SSH.
 
 > [!WARNING]
-> The console on your Pterodactyl panel will not function properly, there's no fix found to this so we suggest using the Discord Intergration that MCC has in their configuration files to control your bot
+> The console on your Pterodactyl panel will not function properly, there's no fix found to this so I suggest using the Discord Intergration that MCC has in their configuration files to control your bot
 
 You have now successfully setup MCC in Pterodactyl!
