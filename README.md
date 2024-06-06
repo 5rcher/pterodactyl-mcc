@@ -10,8 +10,6 @@ docker ps -a
 ```
 Once you've done that, look for the container ID which has "ghcr.io/razboy20/pterodactyl-mcc:main" next to it, like this:
 
-![Example Screenshot](https://github.com/auitenti/pterodactyl-mcc/blob/main/assests/images/example.png)
-
 After, grab the container ID and run the following command:
 ```
 docker start -ai <container_id>
